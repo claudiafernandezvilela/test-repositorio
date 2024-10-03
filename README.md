@@ -1,2 +1,2 @@
-# test-repositorio
-Repositorio de test
+# proyecto de prueba
+Repositorio del proyecto de prueba
